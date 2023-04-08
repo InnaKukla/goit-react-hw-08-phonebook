@@ -15,7 +15,7 @@ text-transform: uppercase;
 
   }
   button {
-    padding: 8px 16px;
+    padding: 6px 16px;
     border-radius: 4px;
     color: black;
     font-weight: 600;
@@ -29,7 +29,7 @@ text-transform: uppercase;
       background-color: #a9c9ff;
       background-image: linear-gradient(180deg, #a9c9ff 0%, #ffbbec 100%);
       color: white;
-      transform: scale(1.1);
+      padding: 8px 16px;
     }
   }
 `;
